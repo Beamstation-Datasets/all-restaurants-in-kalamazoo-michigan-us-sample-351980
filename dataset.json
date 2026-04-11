@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Kalamazoo, Michigan. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Kalamazoo, Michigan, US",
+  "export_job_id": "1aec6dd4-7bc1-46c2-9beb-5cc51ab27712",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 351980,
+  "location_name": "Kalamazoo",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-kalamazoo-michigan-us-sample-351980",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/351980/beamstation_351980_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 8.53,
+  "sample_records": 25,
+  "sample_sha256": "e7d87f128fc57176bfc1e799bb861498e12512e664134eaff315ad0f111ea21f",
+  "sample_size_bytes": 115760,
+  "total_records": 293,
+  "updated_at": "2026-03-31T15:20:53.326000+00:00"
+}
