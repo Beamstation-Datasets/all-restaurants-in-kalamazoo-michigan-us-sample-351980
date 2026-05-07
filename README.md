@@ -1,6 +1,6 @@
 # All Restaurants in Kalamazoo, Michigan, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `351980` |
 | Location | Kalamazoo |
 | Category | Restaurants |
-| Full dataset size | 321 records |
-| Free sample size | 32 records (9.97%) |
-| Last export | 2026-04-28T18:38:09.361222+00:00 |
+| Full dataset size | 334 records |
+| Free sample size | 33 records (9.88%) |
+| Last export | 2026-05-07T03:47:29.529047+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-kalamazoo-michigan-us-sample-351980/releases/download/sample-latest/beamstation_351980_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
