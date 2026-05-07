@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8f16c82f-efd0-4f06-b2d5-7c8b7703327b",
+  "export_job_id": "fa3fce08-5426-4901-a50c-1b924014df3a",
   "id_short": 351980,
-  "published_at": "2026-04-28T19:37:10Z",
+  "published_at": "2026-05-07T07:10:10Z",
   "repo_name": "all-restaurants-in-kalamazoo-michigan-us-sample-351980",
   "sample_asset_name": "beamstation_351980_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/351980/beamstation_351980_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 32,
-  "sample_sha256": "87e9ca7d074146975d2e47dfb691782dab3749a700e1f9ed880f40c7a852325e",
-  "sample_size_bytes": 109604,
-  "total_records": 321
+  "sample_records": 33,
+  "sample_sha256": "a6a4cf5a829ee03915e2cee08f7c2320b49626f5ec33f8a951fff0f9318cd130",
+  "sample_size_bytes": 129965,
+  "total_records": 334
 }
